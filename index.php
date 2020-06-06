@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +6,8 @@
 </head>
 <body>
     <ul>
-    <li>NULL</li>
-    </ul>
+    <li> <a href="index2.php">Many use $</a> </li>
+        <li> <a href="operator.php">Opertor</a> </li>
+        <li> <a href="Assignment_By_reference.php">Assignment By reference</a> </li>
 </body>
 </html>
